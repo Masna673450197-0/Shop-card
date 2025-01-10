@@ -1,0 +1,16 @@
+C:\lab3\Shopcards\bin\Debug\net9.0-windows\Shopcards.exe
+C:\lab3\Shopcards\bin\Debug\net9.0-windows\Shopcards.deps.json
+C:\lab3\Shopcards\bin\Debug\net9.0-windows\Shopcards.runtimeconfig.json
+C:\lab3\Shopcards\bin\Debug\net9.0-windows\Shopcards.dll
+C:\lab3\Shopcards\bin\Debug\net9.0-windows\Shopcards.pdb
+C:\lab3\Shopcards\obj\Debug\net9.0-windows\Shopcards.Form1.resources
+C:\lab3\Shopcards\obj\Debug\net9.0-windows\Shopcards.csproj.GenerateResource.cache
+C:\lab3\Shopcards\obj\Debug\net9.0-windows\Shopcards.GeneratedMSBuildEditorConfig.editorconfig
+C:\lab3\Shopcards\obj\Debug\net9.0-windows\Shopcards.AssemblyInfoInputs.cache
+C:\lab3\Shopcards\obj\Debug\net9.0-windows\Shopcards.AssemblyInfo.cs
+C:\lab3\Shopcards\obj\Debug\net9.0-windows\Shopcards.csproj.CoreCompileInputs.cache
+C:\lab3\Shopcards\obj\Debug\net9.0-windows\Shopcards.dll
+C:\lab3\Shopcards\obj\Debug\net9.0-windows\refint\Shopcards.dll
+C:\lab3\Shopcards\obj\Debug\net9.0-windows\Shopcards.pdb
+C:\lab3\Shopcards\obj\Debug\net9.0-windows\Shopcards.genruntimeconfig.cache
+C:\lab3\Shopcards\obj\Debug\net9.0-windows\ref\Shopcards.dll
